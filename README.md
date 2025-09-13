@@ -13,5 +13,8 @@ LLM4SDR identifies variables related to software defects by combining a patch-ba
 
 
 ## Important document description
-
+run_llm_message.py: Leverages LLMs to integrate information from multiple sources and generate detailed commit descriptions.
+llm_analyzer.py: Analyzing commits using a large model.
+train.py: Train a classifier model.
+keyvar_extractor_llm.py: Using large models to assist in extracting key variables.
 
